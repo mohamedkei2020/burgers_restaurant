@@ -6,3 +6,4 @@ cornichons
 ketchup
 moutarde
 mayo
+dessert
