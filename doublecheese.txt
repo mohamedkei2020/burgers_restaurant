@@ -11,3 +11,4 @@ oignons
 cornichons
 ketchup
 moutarde
+ketchup_pierre
